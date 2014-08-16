@@ -1,0 +1,1 @@
+[PARP sequence and structure information](http://www.uniprot.org/uniprot/P09874)
